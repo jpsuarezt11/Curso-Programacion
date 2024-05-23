@@ -1,2 +1,1 @@
-# Curso-Programacion
-Repositorio Prueba curso Programacion
+Prueba de gestion de repositorio
